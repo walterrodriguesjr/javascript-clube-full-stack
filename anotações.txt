@@ -27,3 +27,6 @@
 6-Tipos de dados - Primitivos - Booleans
     -dados booleanos = true ou false 
     
+7-Tipos de dados - Primitivos - Undefined e Null
+    - ... 
+
