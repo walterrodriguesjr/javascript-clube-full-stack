@@ -5,16 +5,19 @@
     -variáveis = recipientes, possibilitam o reaproveitamento de código 
     -por convenção, o JS usa o padrão 'camelCase'
 
-03 - Variáveis com var e hoisting
+3-Variáveis com var e hoisting
     -sempre usar como nome de variável um nome bem descritivo 
     -escopo 
         -local: dentro de chaves, de uma uma função, por exemplo 
         -global: fora de chaves ou de qualquer função 
     -hoisting(içamento): é o termo que define o fato de, o JS permitir chamar uma função, antes mesmo de ela ser declarada, 
         e mesmo assim não causando nenhum problema. Permite atribuir uma valor a uma variável que ainda não 
-            foi criada.
+            foi criada. *HOISTING SÓ PODE OCORRER SE ESTIVER USANDO 'VAR'*
 
+4-Variáveis com let e const
+    -recomendado evitar a criação de variáveis usando 'var', sempre priorizar 'let' e 'const' 
+    -não é possível chamar uma variavel antes de declara-la se for 'let' ou 'const'
+    -'const' não pode ser redeclarada ou  atribuída um novo valor
 
-    
-
-
+5-
+      
