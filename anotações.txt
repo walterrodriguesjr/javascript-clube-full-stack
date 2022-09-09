@@ -42,3 +42,5 @@
 11-Operadores aritméticos
     -soma, subtração, multiplicação, divisão e resto 
     
+12-Operadores de atribuição
+    - >, <, >=, <=, =, ==, ===
