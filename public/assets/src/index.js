@@ -1,2 +1,5 @@
-let teste = 'testando';
-console.log(teste);
+let movie = 'myMovie';
+console.log(movie);
+
+let age = 36;
+console.log(age);

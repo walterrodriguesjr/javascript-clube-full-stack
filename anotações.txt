@@ -19,5 +19,10 @@
     -não é possível chamar uma variavel antes de declara-la se for 'let' ou 'const'
     -'const' não pode ser redeclarada ou  atribuída um novo valor
 
-5-
+5-Tipos de dados - Primitivos -Strings e Numbers
+    -dados não primitivos = objetos 
+    -dados primitivos = strings, number 
+        JS não faz distinção de número inteiro ou real 
+    
+
       
