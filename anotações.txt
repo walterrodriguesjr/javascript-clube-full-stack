@@ -43,4 +43,7 @@
     -soma, subtração, multiplicação, divisão e resto 
     
 12-Operadores de atribuição
-    - >, <, >=, <=, =, ==, ===
+    - =, +=, -=, *=, /=, %=
+
+13-Operadores de comparação
+    - ==, ===, !=, !==, >, >= etc 
