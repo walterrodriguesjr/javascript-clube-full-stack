@@ -47,3 +47,6 @@
 
 13-Operadores de comparação
     - ==, ===, !=, !==, >, >= etc 
+
+14-Operadores lógicos   
+    - && = e / || = ou / ! = negação
