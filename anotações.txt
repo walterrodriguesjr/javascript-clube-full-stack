@@ -24,5 +24,6 @@
     -dados primitivos = strings, number 
         JS não faz distinção de número inteiro ou real 
     
-
-      
+6-Tipos de dados - Primitivos - Booleans
+    -dados booleanos = true ou false 
+    
