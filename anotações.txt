@@ -76,3 +76,7 @@
 
 22-Objetos - Entendendo a cadeia de protótipos#04 - toString 
     -...
+
+23-Objetos - Entendendo a cadeia de protótipos#05 - hasOwnProperty
+    -...
+
