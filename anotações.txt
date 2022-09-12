@@ -80,3 +80,6 @@
 23-Objetos - Entendendo a cadeia de protótipos#05 - hasOwnProperty
     -...
 
+24-Objetos - Funções
+    -bloco de código com nome reutilizavel em qualquer parte do codigo
+
