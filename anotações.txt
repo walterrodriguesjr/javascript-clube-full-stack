@@ -50,3 +50,7 @@
 
 14-Operadores lógicos   
     - && = e / || = ou / ! = negação
+
+15-Condicionais#01
+    -sobre as possibilidades de condicionais: if, else if e else 
+    -sobre operadores ternários 
