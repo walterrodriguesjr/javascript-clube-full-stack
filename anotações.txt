@@ -62,3 +62,6 @@
 17-Precedência dos operadores 
     -&& tem precendencia sobre o ||, por exemplo. Consultar a tabela completa no MDN 
 
+18-Objetos literal
+    -maneira mais simples de se criar um objeto, não se usa o new Object(), por exemplo 
+    -
