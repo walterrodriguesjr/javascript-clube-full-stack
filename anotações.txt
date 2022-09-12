@@ -68,3 +68,6 @@
 19-Objetos - Entendendo a cadeia de protótipos#01 - Object.prototype
     -sobre o uso de prototype 
 
+20-Entendendo a cadeia de protótipos#02 -Constructor e isPrototypeOf
+    -...
+
