@@ -64,4 +64,7 @@
 
 18-Objetos literal
     -maneira mais simples de se criar um objeto, não se usa o new Object(), por exemplo 
-    -
+    
+19-Objetos - Entendendo a cadeia de protótipos#01 - Object.prototype
+    -sobre o uso de prototype 
+
