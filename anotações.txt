@@ -54,3 +54,8 @@
 15-Condicionais#01
     -sobre as possibilidades de condicionais: if, else if e else 
     -sobre operadores ternários 
+
+16-Condicionais#02
+    -explicando a estrutura do switch/case 
+    -seria como usar um uma condicional com varios if e else if 
+
