@@ -71,3 +71,6 @@
 20-Entendendo a cadeia de protótipos#02 -Constructor e isPrototypeOf
     -...
 
+21-Objetos - Entendendo a cadeia de protótipos#03 - valueOf 
+    -...
+
