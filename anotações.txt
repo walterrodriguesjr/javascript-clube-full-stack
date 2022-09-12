@@ -59,3 +59,6 @@
     -explicando a estrutura do switch/case 
     -seria como usar um uma condicional com varios if e else if 
 
+17-Precedência dos operadores 
+    -&& tem precendencia sobre o ||, por exemplo. Consultar a tabela completa no MDN 
+
