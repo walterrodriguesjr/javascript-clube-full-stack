@@ -90,5 +90,8 @@
     -objeto pode conter arrays (mais de um), juntamente com funções e itens aleatórios
     -pode chamar seus conteudos através do 'dot notation' ou entre cochetes
     
+27-Objetos - Propriedades computadas
+    -passando dados de dentro de variáveis para dentro de objetos 
 
+ 
 
