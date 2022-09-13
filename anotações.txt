@@ -99,6 +99,9 @@
 29-Objetos - Objetos são passados por referência 
     -se dois objetos apontam para o mesmo dado, no momento em que o valor de um for alterado, o do outro também será alterado por referência 
 
+30-Objetos - Copiando propriedades de um objeto 
+    -...
+
 
 
 
