@@ -102,7 +102,11 @@
 30-Objetos - Copiando propriedades de um objeto 
     -...
 
+31- Objetos - Alterando estados de uma propriedade 
+    -maneira de passar parametros diversos de um objeto dentro da próprias declaração 
 
+32-Objetos - Congelando um objeto
+    -
 
 
 
