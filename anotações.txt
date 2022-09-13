@@ -93,5 +93,8 @@
 27-Objetos - Propriedades computadas
     -passando dados de dentro de variáveis para dentro de objetos 
 
- 
+28-Objetos - Criando objeto com protótipo específico 
+    -...
+
+
 
