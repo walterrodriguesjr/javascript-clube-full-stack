@@ -106,7 +106,10 @@
     -maneira de passar parametros diversos de um objeto dentro da próprias declaração 
 
 32-Objetos - Congelando um objeto
-    -
+    -...
+
+33-Objetos - Pegando chaves e valores de um objeto 
+    -...
 
 
 
