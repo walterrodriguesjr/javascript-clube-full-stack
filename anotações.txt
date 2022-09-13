@@ -84,5 +84,11 @@
     -bloco de código com nome reutilizavel em qualquer parte do codigo
 
 25-Objetos - Expressão e declaração de função
-    -
+    -...
+
+26-Objetos - Objeto literal
+    -objeto pode conter arrays (mais de um), juntamente com funções e itens aleatórios
+    -pode chamar seus conteudos através do 'dot notation' ou entre cochetes
+    
+
 
