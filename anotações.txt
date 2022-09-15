@@ -110,6 +110,83 @@
 
 33-Objetos - Pegando chaves e valores de um objeto 
     -...
+    
+34-Objetos - Objeto em arrays e arrays em objeto
+    -...
+
+35-Objetos - Ligando uma função de um objeto a outro objeto com bind
+    -..
+
+36-Objetos - Ligando uma função de um objeto a outro objeto com call
+    -...
+
+37-Objetos - Ligando uma função de um objeto a outro objeto com apply
+    -...
+
+38-Objetos - Arrays 
+    -é possível criar arrays com varios tipos de dados 
+        mix = [1, 'walter', true, teste, {profissao: 'policial', age: 36}]
+    
+39-Loopings - For
+    - ...
+
+40-Loopings - For in e For of
+    for (let users in user) {
+        console.log(user[users])
+}
+
+41-Loopings - while e foreach
+    -while 
+                 while(i < names.length){         
+                 console.log(names[i]);       
+                 i++;                                                                   
+                 }
+
+    -foreach 
+         names.forEach(function(name, index){ 
+            console.log(name);    
+            })
+
+42-Funções - Callbacks 
+    -callback é uma função que é passada como parâmetro para outra função 
+
+43- Funções - Closures 
+    -'Closure' é o ato de criar uma função dentro da outra e, sendo assim, usar as variaveis do escopo uma da outra 
+
+44-Funções - IIFE (immediately invoked function expression)
+    -...
+
+45-Funções Construtoras
+    -...
+
+46-Funções Construtoras e Protótipos 
+    -...
+
+47-Funções Construtoras e Protótipos com Herança
+    -...
+
+48-Factory functions
+    - são funções que retornam objetos 
+    
+49-This e arrow functions
+    -arrow function possibilita e facilita o uso do this, permite deixar mais enxuta tmb a função 
+
+50-Javascript Assíncrono
+    - ok 
+
+51-Promises
+    - similar a um try / catch 
+        const promise = new Promise((resolve, reject) => {                                 let name = 'Walter';                                                  
+        if(name === 'Walter'){                                                     
+        resolve('é Walter');                                                     
+        }else{                                                                     
+        reject('não é Walter');                                              
+        }                                                                           
+        });  
+
+    REFAZER
+
+
 
 
 
